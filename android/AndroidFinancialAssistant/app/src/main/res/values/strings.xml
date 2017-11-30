@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FinancialAssistant</string>
+    <string name="newGoal">New Goal</string>
+    <string name="new_goal_txt">Your Goal Title: </string>
+    <string name="new_transaction_txt">Description: </string>
+    <string name="new_transaction_value">Amount: </string>
+    <string name="new_transaction_date">Date: </string>
+    <string name="new_goal_value">Goal Amount: </string>
+    <string name="submit_transaction">Submit </string>
+    <string name="new_goal_date">Deadline: </string>
+    <string name="new_goal_importance">Priority: </string>
+    <string name="submit">Set Goal </string>
+    <string name="column0">Title</string>
+    <string name="column1">Deadline </string>
+    <string name="column2">Progress </string>
+    <string name="editGoal">Edit</string>
+    <string name="edit">Update</string>
+    <string name="delete">Delete</string>
+    <string name="edit_transaction">Edit</string>
+    <string name="delete_transaction">Delete</string>
+    <string name="goal_f_title">Title</string>
+    <string name="goal_f_amount">Amount</string>
+    <string name="goal_f_date">Deadline</string>
+    <string name="help">Help</string>
+    <string name="goal_f_total">Total</string>
+    <string name="question1">How does the app help to manage your financial goals?</string>
+    <string name="answer11">This app helps you to categorize your goals and budget which is allocated to each goal without need to have different saving accounts.
+    The idea is having your saving amount in one account and getting them separated virtually by the app.
+    you can enter all of your financial goals in the app by defining new goals and specify the amount which
+        in needed for each goal to be achieved and the deadline as well. and finally in the app you can find
+        your saved mony categorized based on your personal decision. So you do not have to save the money for each goal separately. </string>
+    <string name="question2">How can I edit goals or transactions I submitted?</string>
+    <string name="answer2">You can Easily tap and long press any goal or transaction to edit every single details or delete it.</string>
+    <string name="goal_hint">Hi! No goal has been set yet, You can add your goals by pressing
+        add button on top right of the app</string>
+    <string name="feedback">We truely appreciate your valuable feedbacks.</string>
+    <string-array name="new_choice">
+        <item>New Goal</item>
+        <item>New Transaction</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>

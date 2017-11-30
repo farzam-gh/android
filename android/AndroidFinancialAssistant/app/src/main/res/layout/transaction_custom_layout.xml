@@ -1,0 +1,43 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:columnCount="4">
+
+
+    <TextView
+        android:id="@+id/transaction_description"
+        android:layout_gravity="fill_horizontal"
+        android:width="0dp"
+        android:layout_columnWeight="0.25"
+        android:layout_height="wrap_content"
+        android:layout_rowWeight="0.25"
+        android:layout_marginBottom="10dp"/>
+    <TextView
+        android:id="@+id/transaction_amount"
+        android:layout_gravity="fill_horizontal"
+        android:width="0dp"
+        android:layout_columnWeight="0.25"
+        android:layout_height="wrap_content"
+        android:layout_rowWeight="0.25"
+        android:layout_marginBottom="10dp"/>
+    <TextView
+        android:id="@+id/transaction_date"
+        android:layout_gravity="fill_horizontal"
+        android:width="0dp"
+        android:layout_columnWeight="0.25"
+        android:layout_height="20dp"
+        android:layout_rowWeight="0.25"
+        android:layout_marginBottom="10dp"/>
+    <TextView
+        android:id="@+id/transaction_total"
+        android:layout_gravity="fill_horizontal"
+        android:width="0dp"
+        android:layout_columnWeight="0.25"
+        android:layout_height="wrap_content"
+        android:layout_rowWeight="0.25"
+        android:layout_marginBottom="10dp"/>
+
+</GridLayout>
